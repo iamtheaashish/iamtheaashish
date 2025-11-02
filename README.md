@@ -1,4 +1,4 @@
-# Aashish Raj — DevSecOps | MLOps 🚀
+# 👋 Hello, I am Aashish Raj — DevSecOps | MLOps 🚀
 
 DevSecOps and MLOps practitioner focused on secure, automated delivery across AWS, Azure, and GCP, with a Linux, IaC, and observability foundation to ship reliable, scalable systems that are secure by default. 🔐☁️
 
