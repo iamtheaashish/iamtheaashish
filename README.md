@@ -20,5 +20,5 @@ Open to DevOps/DevSecOps/MLOps roles focused on hardening CI/CD, codifying infra
 
 ## Links 🔗
 - Portfolio: https://iamtheaashish.github.io
-- GitHub Projects: https://github.com/iamtheaashish
-- LinkedIn: https://www.linkedin.com/in/iamtheaashish
+- LinkedIn: https://linkedin.com/in/iamtheaashish
+- X (Twitter): https://x.com/iamtheaashish
