@@ -1,4 +1,4 @@
-# 👋 Hello, I am Aashish Raj — DevSecOps | MLOps 🚀
+# 👋 Hello, I am Aashish Raj — DevSecOps Enthusiast 🚀
 
 DevSecOps and MLOps practitioner focused on secure, automated delivery across AWS, Azure, and GCP, with a Linux, IaC, and observability foundation to ship reliable, scalable systems that are secure by default. 🔐☁️
 
@@ -7,10 +7,10 @@ DevSecOps and MLOps practitioner focused on secure, automated delivery across AW
 ## Technical toolkit 🧰
 - Operating System: Debian/Ubuntu • RHEL/CentOS/Rocky/Alma
 - CI/CD: Jenkins • GitHub • Maven • Tomcat • SonarQube • Nexus
-- Containers & Orchestration: Docker • Podman • Kubernetes (image hardening, SBOM scanning)
-- IaC & Cloud: Terraform • AWS • Azure • GCP (networking, IAM, cost‑aware patterns)
-- Observability & Ops: Prometheus • Grafana • CloudWatch
-- Languages: C • C++ • Python • Bash
+- Containers & Orchestration: Docker • Podman • Kubernetes
+- IaC & Cloud: Terraform • AWS • Azure • GCP
+- Observability & Ops: Prometheus • Grafana • CloudWatch • ELK Stack
+- Languages: C • Python • Bash
 - Databases: MySql • MariaDB
 - Core CS: OS • DSA • DBMS • Networking
 
