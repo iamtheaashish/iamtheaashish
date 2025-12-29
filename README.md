@@ -1,6 +1,6 @@
 # 👋 Hello, I am Aashish Raj
 
-I have been using Linux since I was in 9th, currently I am pursuing Bachelor of Computer Applications (2025-2028).
+I have been using Linux since I was in class 8th, currently I am pursuing Bachelor of Computer Applications (2025-2028).
 
 I am a DevOps Enthusiast focused on secure, automated delivery across AWS, with a Linux, IaC, and observability foundation to ship reliable, scalable systems that are secure by default. 🔐☁️
 
