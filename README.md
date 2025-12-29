@@ -7,7 +7,7 @@ DevOps Enthusiast focused on secure, automated delivery across AWS, with a Linux
 
 
 ## Technical toolkit 🧰
-- **Operating System:** Debian/Ubuntu • RHEL/CentOS/Rocky/Alma
+- **Operating System:** Debian/Ubuntu • RHEL/CentOS/Fedora
 - **CI/CD:** Jenkins • ArgoCD • Git/GitHub • Maven • Tomcat • SonarQube • Nexus
 - **Containers & Orchestration:** Docker/Podman • Kubernetes
 - **IaC, Configuration Management & Cloud:** Terraform • Ansible • AWS Cloud
