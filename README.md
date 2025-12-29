@@ -7,14 +7,15 @@ DevOps Enthusiast focused on secure, automated delivery across AWS, with a Linux
 
 
 ## Technical toolkit 🧰
-- Operating System: Debian/Ubuntu • RHEL/CentOS/Rocky/Alma
-- CI/CD: Jenkins • ArgoCD • Git/GitHub • Maven • Tomcat • SonarQube • Nexus
-- Containers & Orchestration: Docker/Podman • Kubernetes
-- IaC, Configuration Management & Cloud: Terraform • Ansible • AWS Cloud
-- Observability & Ops: Prometheus • Grafana • CloudWatch • ELK Stack
-- Languages: C • C++ • Python • Bash
-- Databases: PostgreSQL
-- Core CS: OS • DSA • DBMS • Networking
+- **Operating System:** Debian/Ubuntu • RHEL/CentOS/Rocky/Alma
+- **CI/CD:** Jenkins • ArgoCD • Git/GitHub • Maven • Tomcat • SonarQube • Nexus
+- **Containers & Orchestration:** Docker/Podman • Kubernetes
+- **IaC, Configuration Management & Cloud:** Terraform • Ansible • AWS Cloud
+- **Observability & Ops:** Prometheus • Grafana • CloudWatch • ELK Stack
+- **Languages:** C • C++ • Python • Bash
+- **Databases:** PostgreSQL
+- **Core CS:** OS • DSA • DBMS • Networking
+
 
 ## What I’m looking for 🎯
 Open to DevOps roles focused on hardening CI/CD, codifying infrastructure, and standing up scalable observability so teams ship faster with confidence.
