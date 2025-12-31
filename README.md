@@ -12,7 +12,7 @@ I am a DevOps Enthusiast focused on secure, automated delivery across AWS, with 
 - **Containers & Orchestration:** Docker/Podman • Kubernetes
 - **IaC, Configuration Management & Cloud:** Terraform • Ansible • AWS Cloud
 - **Observability & Ops:** Prometheus • Grafana • CloudWatch • ELK Stack
-- **Languages:** C • Python • Bash (Focused more towards scripting and automation rather than development)
+- **Languages:** C • C++ • Python • Bash (Focused more towards scripting and automation rather than development)
 - **Databases:** PostgreSQL
 - **Core CS:** OS • DSA • DBMS • Networking
 
