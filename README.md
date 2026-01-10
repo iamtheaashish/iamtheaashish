@@ -8,7 +8,7 @@ I am a DevOps Enthusiast focused on secure, automated delivery across AWS, with 
 
 ## Technical toolkit 🧰
 - **Operating System:** Debian/Ubuntu • RHEL/CentOS/Fedora
-- **CLI Toolin:** Vim • Tmux
+- **CLI Tooling:** Vim • Tmux
 - **CI/CD:** Jenkins • ArgoCD • Git/GitHub • Maven • Tomcat • SonarQube • Nexus
 - **Containers & Orchestration:** Docker/Podman • Kubernetes
 - **IaC, Configuration Management & Cloud:** Terraform • Ansible • AWS Cloud
