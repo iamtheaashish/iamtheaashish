@@ -9,13 +9,13 @@ I am a DevOps Enthusiast focused on secure, automated delivery across AWS, with 
 ## Technical toolkit 🧰
 - **Operating System:** Debian/Ubuntu • RHEL/CentOS/Fedora
 - **CLI Tooling:** Vim • Tmux
-- **CI/CD:** Jenkins • ArgoCD • Git/GitHub • Maven • Tomcat • SonarQube • Nexus
-- **Containers & Orchestration:** Docker/Podman • Kubernetes
+- **CI/CD & VCS/SCM:** Jenkins • Git/GitHub
+- **Containers & Orchestration:** Docker • Kubernetes(Basics)
 - **IaC, Configuration Management & Cloud:** Terraform • Ansible • AWS Cloud
-- **Observability & Ops:** Prometheus • Grafana • CloudWatch • ELK Stack
-- **Languages:** C • C++ • Go • Bash (Focused more towards scripting and automation rather than development)
+- **Observability:** Prometheus • Grafana
+- **Languages:** C • C++ • Go • Bash
 - **Databases:** PostgreSQL
-- **Core CS:** OS • DSA • DBMS • Networking • SD + DS
+- **Core CS:** OS • DSA • DBMS • Networking
 
 
 ## What I’m looking for 🎯
