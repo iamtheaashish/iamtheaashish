@@ -13,9 +13,9 @@ I am a DevOps Enthusiast focused on secure, automated delivery across AWS, with 
 - **Containers & Orchestration:** Docker/Podman • Kubernetes
 - **IaC, Configuration Management & Cloud:** Terraform • Ansible • AWS Cloud
 - **Observability & Ops:** Prometheus • Grafana • CloudWatch • ELK Stack
-- **Languages:** C • C++ • Python • Bash (Focused more towards scripting and automation rather than development)
+- **Languages:** C • C++ • Go • Bash (Focused more towards scripting and automation rather than development)
 - **Databases:** PostgreSQL
-- **Core CS:** OS • DSA • DBMS • Networking
+- **Core CS:** OS • DSA • DBMS • Networking • SD + DS
 
 
 ## What I’m looking for 🎯
@@ -25,3 +25,4 @@ Open to DevOps roles focused on hardening CI/CD, codifying infrastructure, and s
 - Portfolio: https://iamtheaashish.github.io
 - LinkedIn: https://linkedin.com/in/iamtheaashish
 - X (Twitter): https://x.com/iamtheaashish
+- YouTube: https://www.youtube.com/@iamtheaashish
