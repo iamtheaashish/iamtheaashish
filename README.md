@@ -2,7 +2,7 @@
 
 I have been using Linux since I was in class 8th, currently I am pursuing Bachelor of Computer Applications (2025-2028).
 
-Learning Back-end Engineering and DevOps
+Currently learning Back-end Development and DevOps.
 
 ## Links 🔗
 - Portfolio: https://iamtheaashish.github.io
