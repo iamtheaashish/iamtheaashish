@@ -1,11 +1,11 @@
 # 👋 Hello, I am Aashish Raj
 
-I have been using Linux since I was in class 8th, currently I am pursuing Bachelor of Computer Applications (2025-2028).
+I have been using Linux since I was about 13 or 14 years old.
+One of the first commands I have used was $ sudo dpkg -i microsoft_teams.deb .
 
-Currently learning Back-end Engineering and DevOps.
+Currently, I am pursuing a Bachelor of Computer Applications, expected to graduate between 2025 and 2028.
 
-## Links 🔗
-- Portfolio: https://iamtheaashish.github.io
-- LinkedIn: https://linkedin.com/in/iamtheaashish
-- X (Twitter): https://x.com/iamtheaashish
-- YouTube: https://www.youtube.com/@iamtheaashish
+As of now,
+Most of the commits I have made have come after practicing C++. Some of them have been for my projects.
+
+DevOps is my primary strength, and I am supporting it by understanding back-end engineering.
