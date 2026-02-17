@@ -1,6 +1,7 @@
 # 👋 Hello, I am Aashish Raj
 
 I have been using Linux since I was about 13 or 14 years old.
+
 One of the first commands I have used was $ sudo dpkg -i microsoft_teams.deb .
 
 Currently, I am pursuing a Bachelor of Computer Applications, expected to graduate between 2025 and 2028.
