@@ -9,4 +9,4 @@ Currently, I am pursuing a Bachelor of Computer Applications, expected to gradua
 As of now,
 Most of the commits I have made have come after practicing C++. Some of them have been for my projects.
 
-DevOps is my primary strength, and I am supporting it by understanding back-end engineering.
+DevOps is my primary strength, and I am supporting it by learning back-end engineering.
